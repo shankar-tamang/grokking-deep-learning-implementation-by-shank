@@ -1,0 +1,3 @@
+### This Repo contains implementations from the famous deep learning book Groking Deep Learning by Andrew W. Trask. The highlight of this book is simple and intuitive explanation of deep learning concepts which often overwhelmes beginners. Aided with scratch implementation in python and numpy, this particular book is perfect for practitionner who wants to refresh their knowledge or give a new taste to their deep learning journey.
+
+### **Happy Learning! :)** 
